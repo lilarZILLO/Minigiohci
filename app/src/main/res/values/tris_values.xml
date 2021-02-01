@@ -1,0 +1,10 @@
+<resources>
+    <string name="btn_start"></string>
+    <string name="x">x</string>
+    <string name="o">O</string>
+    <string name="toccax">Tocca a: X</string>
+    <string name="toccao">Tocca a: O</string>
+    <string name="vincex">VITTORIA X</string>
+    <string name="vinceo">VITTORIA O</string>
+    <string name="pareggio">PAREGGIO</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="toccap1">TOCCA A PLAYER 1</string>
+    <string name="toccap2">TOCCA A PLAYER 2</string>
+    <string name="punteggiop2">PLAYER 2 : </string>
+    <string name="punteggiop1">PLAYER 1 : </string>
+    <string name="vincep1">VINCE PLAYER 1</string>
+    <string name="vincep2">VINCE PLAYER 2</string>
+</resources>
